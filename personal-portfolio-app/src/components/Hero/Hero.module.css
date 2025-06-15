@@ -20,14 +20,14 @@
 }
 
 .title {
-    font-size: 72px;
-    font-weight: 900;
-    margin-bottom: 33px;
-    font-family: var(--font-roboto);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 70%, rgba(255,255,255,0) 120%);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+  font-size: 4.5rem;
+  font-weight: 900;
+  background: linear-gradient(90deg, #6C63FF, #A5D8FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.15);
 }
+
 
 .description {
   font-size: 1.15rem;

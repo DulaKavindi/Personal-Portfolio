@@ -9,7 +9,7 @@ const Contact = () => {
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
-        <p>Feel free to reach out!</p>
+        <p>Let's connect and build something amazing together!</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
@@ -18,11 +18,15 @@ const Contact = () => {
         </li>
         <li className={styles.link}>
           <img src={linkedinIcon} alt="LinkedIn icon" />
-          <a href="https://www.linkedin.com/in/dulari-kavindi-008280317/">linkedin.com/Dulari-Kavindi</a>
+          <a href="https://www.linkedin.com/in/dulari-kavindi-008280317/" target="_blank" rel="noopener noreferrer">
+            LinkedIn Profile
+          </a>
         </li>
         <li className={styles.link}>
-          <img src={githubIcon} alt="Github icon" />
-          <a href="https://github.com/DulaKavindi">github.com/DulaKavindi</a>
+          <img src={githubIcon} alt="GitHub icon" />
+          <a href="https://github.com/DulaKavindi" target="_blank" rel="noopener noreferrer">
+            GitHub Portfolio
+          </a>
         </li>
       </ul>
     </footer>
