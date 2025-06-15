@@ -11,6 +11,10 @@ import css from '../../assets/skills/css.png';
 import figma from '../../assets/skills/figma.png';
 import html from '../../assets/skills/html.png';
 import linux from '../../assets/skills/linux.png';
+import illustrator from '../../assets/skills/illustrator.png';
+import photoshop from '../../assets/skills/photoshop.png';
+import python from '../../assets/skills/python.png';
+import react from '../../assets/skills/react.png';
 
 const skills = [
   { title: 'JavaScript', img: js },
@@ -18,6 +22,10 @@ const skills = [
   { title: 'Figma', img: figma },
   { title: 'HTML', img: html },
   { title: 'Linux', img: linux },
+  { title: 'Illustrator', img: illustrator },
+  { title: 'Photoshop', img: photoshop },
+  { title: 'Python', img: python },
+  { title: 'React', img: react },
 ];
 
 const About = () => {
