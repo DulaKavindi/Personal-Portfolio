@@ -29,10 +29,44 @@
     -webkit-background-clip: text;
 }
 
-.description{
-    font-size: 30px;
-    font-family: var(--font-roboto);
-    margin-bottom: 52px;
+.description {
+  font-size: 1.15rem;
+  color: #f8fafc;
+  background: rgba(23, 59, 108, 0.65);
+  backdrop-filter: blur(8px) saturate(120%);
+  border-radius: 1.2rem;
+  border: 1.5px solid rgba(87, 108, 188, 0.25);
+  padding: 1.5rem 2rem;
+  margin: 1.2rem 0;
+  box-shadow: 0 8px 32px 0 rgba(87, 108, 188, 0.18), 0 1.5px 8px 0 rgba(0,0,0,0.08);
+  letter-spacing: 0.03em;
+  line-height: 1.8;
+  transition: box-shadow 0.3s, border 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.description::before {
+  content: "";
+  position: absolute;
+  top: -40%;
+  left: -30%;
+  width: 160%;
+  height: 180%;
+  background: radial-gradient(circle at 30% 30%, #576cbc33 0%, transparent 70%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.description:hover {
+  box-shadow: 0 12px 40px 0 rgba(87, 108, 188, 0.28), 0 2px 12px 0 rgba(0,0,0,0.12);
+  border: 1.5px solid #576cbc;
+}
+
+.description span, .description strong {
+  color: #a5d8ff;
+  font-weight: 600;
+  letter-spacing: 0.04em;
 }
 
 .heroImg{

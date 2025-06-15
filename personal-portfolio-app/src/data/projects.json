@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Simple Calculator",
+    "description": "A project created to practice and learn modern programming languages by developing a functional calculator app.",
+    "skills": ["React"],
+    "source": "https://github.com/DulaKavindi/Simple-Calculator"
+  },
+  {
+    "title": "Python LMS CLI",
+    "description": " A command-line based Learning Management System built with Python to manage courses and users efficiently.",
+    "skills": ["Python"],
+    "source": "https://github.com/DulaKavindi/Python-LMS-CLI"
+  },
+  {
+    "title": "Library Management System Java",
+    "description": "A Java-based console application designed to manage library operations like adding, borrowing, and returning books.",
+    "skills": ["Java"],
+    "source": "https://github.com/DulaKavindi/Library-Management-System-Java"
+  }
+  ,
+  {
+    "title": "conference system",
+    "description": "A system to organize and manage conferences, including scheduling sessions, speakers, and attendees.",
+    "skills": ["PHP","HTML","CSS","JavaScript"],
+    "source": "https://github.com/DulaKavindi/conference_system"
+  },
+  {
+    "title": "Number gussing game",
+    "description": "A simple game where players try to guess a randomly selected number within a limited number of attempts.",
+    "skills": ["Python"],
+    "source": "https://github.com/DulaKavindi/Number_gussing_game"
+  }
+]
