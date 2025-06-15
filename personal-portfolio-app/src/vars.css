@@ -7,6 +7,6 @@
     --color-bg: #1A1A2E;
 
     /* fonts */
-    --font-roboto: "Roboto";
+    --font-roboto: "Roboto", sans-serif;
 
 }

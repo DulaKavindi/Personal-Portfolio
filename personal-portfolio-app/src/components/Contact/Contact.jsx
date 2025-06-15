@@ -14,15 +14,15 @@ const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={emailIcon} alt="Email icon" />
-          <a href="mailto:dularikavindi6@gmail.com">myemail@email.com</a>
+          <a href="mailto:dularikavindi6@gmail.com">dularikavindi6@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img src={linkedinIcon} alt="LinkedIn icon" />
-          <a href="https://www.linkedin.com/in/dulari-kavindi-008280317/">linkedin.com/myname</a>
+          <a href="https://www.linkedin.com/in/dulari-kavindi-008280317/">linkedin.com/Dulari-Kavindi</a>
         </li>
         <li className={styles.link}>
           <img src={githubIcon} alt="Github icon" />
-          <a href="https://github.com/DulaKavindi">github.com/myname</a>
+          <a href="https://github.com/DulaKavindi">github.com/DulaKavindi</a>
         </li>
       </ul>
     </footer>
