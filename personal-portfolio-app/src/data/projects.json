@@ -3,31 +3,36 @@
     "title": "Simple Calculator",
     "description": "A project created to practice and learn modern programming languages by developing a functional calculator app.",
     "skills": ["React"],
-    "source": "https://github.com/DulaKavindi/Simple-Calculator"
+    "source": "https://github.com/DulaKavindi/Simple-Calculator",
+    "image": "calculator.png"
   },
   {
     "title": "Simple ToDo List",
-    "description": " A command-line based Learning Management System built with Python to manage courses and users efficiently.",
-    "skills": ["Python"],
-    "source": "https://github.com/DulaKavindi/Python-LMS-CLI"
+    "description": " The Simple To-Do List is a basic app that helps users add, view and delete daily tasks. It is easy to use and helps keep tasks organized in one place.",
+    "skills": ["React"],
+    "source": "https://github.com/DulaKavindi/Simple_ToDoList",
+    "image": "ToDo.png"
   },
   {
     "title": "Library Management System Java",
     "description": "A Java-based console application designed to manage library operations like adding, borrowing, and returning books.",
     "skills": ["Java"],
-    "source": "https://github.com/DulaKavindi/Library-Management-System-Java"
+    "source": "https://github.com/DulaKavindi/Library-Management-System-Java",
+    "image": "LMS.png"
   }
   ,
   {
     "title": "conference system",
     "description": "A system to organize and manage conferences, including scheduling sessions, speakers, and attendees.",
     "skills": ["PHP","HTML","CSS","JavaScript"],
-    "source": "https://github.com/DulaKavindi/conference_system"
+    "source": "https://github.com/DulaKavindi/conference_system",
+    "image": "cms.png"
   },
   {
-    "title": "Number gussing game",
-    "description": "A simple game where players try to guess a randomly selected number within a limited number of attempts.",
-    "skills": ["Python"],
-    "source": "https://github.com/DulaKavindi/Number_gussing_game"
+    "title": "Login page",
+    "description": "The Login Page allows users to securely access the application by entering their username and password. It ensures that only authorized users can use the system.",
+    "skills": ["React"],
+    "source": "https://github.com/DulaKavindi/Login_and_registration_form",
+    "image": "login.png"
   }
 ]
