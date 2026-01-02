@@ -34,5 +34,27 @@
     "skills": ["React"],
     "source": "https://github.com/DulaKavindi/Login_and_registration_form",
     "image": "login.png"
-  }
+  },
+  {
+  "title": "Smart Garment Tracking and Optimization System",
+  "description": "The Smart Garment Tracking and Optimization System enables garment factories to monitor production progress in real time using RFID technology, track employee productivity, manage quality defects, and generate analytical reports. The system helps improve operational efficiency, reduce delays, and support data-driven decision making.",
+  "skills": ["React", "Node.js", "Mongo DB"],
+  "source": "https://github.com/SasinduV0/SGPTOS-FinalProject",
+  "image": "final-project.png"
+},
+{
+  "title": "Personal Expense Tracker",
+  "description": "A full-stack web app to record, categorize, and analyze daily expenses with dashboards, filters, and customizable settings for better budgeting and spending insights.",
+  "skills": ["React", "Node.js", "postgresql"],
+  "source": "https://github.com/DulaKavindi/Personal-Expense-Tracker",
+  "image": "expense-tracker.png"
+},
+{
+"title": "Age Calculator",
+"description": "A responsive React app that calculates a person's exact age in years, months, and days from their date of birth, with form validation and a clean, user-friendly interface.",
+"skills": ["React", "JavaScript", "Tailwind CSS", "Vite"],
+"source": "https://github.com/DulaKavindi/CodeAlpha_Age_Calculator",
+"image": "age-calculator.png"
+}
+
 ]
